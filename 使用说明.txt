@@ -1,0 +1,5 @@
+1.JavaWeb01导入项目到eclipse，并将shop.sql导入mysql;
+
+2.登录http://localhost:8080/JavaWeb01/，即可进入登录页面。
+
+3. 参考：管理员：Ploy 密码：123
